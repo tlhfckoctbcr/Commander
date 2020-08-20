@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/grantsru/Documents/Code/Commander/Commander.csproj": {}
+  },
+  "projects": {
+    "/home/grantsru/Documents/Code/Commander/Commander.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/grantsru/Documents/Code/Commander/Commander.csproj",
+        "projectName": "Commander",
+        "projectPath": "/home/grantsru/Documents/Code/Commander/Commander.csproj",
+        "packagesPath": "/home/grantsru/.nuget/packages/",
+        "outputPath": "/home/grantsru/Documents/Code/Commander/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/grantsru/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/96/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
