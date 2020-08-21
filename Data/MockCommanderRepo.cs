@@ -11,7 +11,7 @@ namespace Commander.Data
       {
         new Command{ Id=0, HowTo="Boil an egg", Line="Boil water", Platform="Kettle and pan"},
         new Command{ Id=1, HowTo="Chop a carrot", Line="Get knife", Platform="Knife and board"},
-        new Command{ Id=2, HowTo="Make coffe", Line="Place coffee in cup", Platform="Press and grounds"}
+        new Command{ Id=2, HowTo="Make coffee", Line="Place coffee in cup", Platform="Press and grounds"}
       };
 
       return commands;
