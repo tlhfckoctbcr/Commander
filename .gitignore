@@ -1,4 +1,3 @@
 .vscode
 *.log
-/obj*
 /bin*
